@@ -203,15 +203,13 @@ class FightDetailScreen extends StatelessWidget {
                                                         CircleAvatar(
                                                             radius: 24,
                                                             child: ClipOval(
-                                                              child: Image.network(
-                                                                  'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg'),
+                                                              child: Image.asset('tournament.png')
                                                             )),
                                                         Text('24:2'),
                                                         CircleAvatar(
                                                             radius: 24,
                                                             child: ClipOval(
-                                                              child: Image.network(
-                                                                  'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg'),
+                                                              child: Image.asset('tournament.png')
                                                             )),
                                                       ],
                                                     ),
@@ -284,15 +282,13 @@ class FightDetailScreen extends StatelessWidget {
                                                         CircleAvatar(
                                                             radius: 24,
                                                             child: ClipOval(
-                                                              child: Image.network(
-                                                                  'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg'),
+                                                              child: Image.asset('tournament.png')
                                                             )),
                                                         Text('24:2'),
                                                         CircleAvatar(
                                                             radius: 24,
                                                             child: ClipOval(
-                                                              child: Image.network(
-                                                                  'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg'),
+                                                              child: Image.asset('tournament.png')
                                                             )),
                                                       ],
                                                     ),
@@ -365,15 +361,13 @@ class FightDetailScreen extends StatelessWidget {
                                                         CircleAvatar(
                                                             radius: 24,
                                                             child: ClipOval(
-                                                              child: Image.network(
-                                                                  'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg'),
+                                                              child: Image.asset('tournament.png')
                                                             )),
                                                         Text('24:2'),
                                                         CircleAvatar(
                                                             radius: 24,
                                                             child: ClipOval(
-                                                              child: Image.network(
-                                                                  'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg'),
+                                                              child: Image.asset('tournament.png')
                                                             )),
                                                       ],
                                                     ),
@@ -446,15 +440,13 @@ class FightDetailScreen extends StatelessWidget {
                                                         CircleAvatar(
                                                             radius: 24,
                                                             child: ClipOval(
-                                                              child: Image.network(
-                                                                  'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg'),
+                                                              child: Image.asset('tournament.png')
                                                             )),
                                                         Text('24:2'),
                                                         CircleAvatar(
                                                             radius: 24,
                                                             child: ClipOval(
-                                                              child: Image.network(
-                                                                  'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg'),
+                                                              child: Image.asset('tournament.png')
                                                             )),
                                                       ],
                                                     ),

@@ -27,4 +27,5 @@ class SvgImages {
   static const String accountActiveImages = "assets/active_account.svg";
   static const String cityImages = "assets/city.svg";
   static const String editImages = "assets/ic_edit.svg";
+  static const String accImages = "tournament.png";
 }

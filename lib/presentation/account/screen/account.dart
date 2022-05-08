@@ -205,9 +205,7 @@ class AccountScreen extends StatelessWidget {
                         leading: CircleAvatar(
                           radius: 24,
                           child: ClipOval(
-                            child: Image.network(
-                              'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg',
-                            ),
+                            child: Image.asset('tournament.png')
                           ),
                         ),
                         title: Text('Алиаскар Хасенов',
@@ -228,9 +226,7 @@ class AccountScreen extends StatelessWidget {
                         leading: CircleAvatar(
                           radius: 24,
                           child: ClipOval(
-                            child: Image.network(
-                              'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg',
-                            ),
+                            child: Image.asset('tournament.png')
                           ),
                         ),
                         title: Text('Агыбаев Алихан ',
@@ -264,9 +260,7 @@ class AccountScreen extends StatelessWidget {
                         leading: CircleAvatar(
                           radius: 24,
                           child: ClipOval(
-                            child: Image.network(
-                              'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg',
-                            ),
+                            child: Image.asset('tournament.png')
                           ),
                         ),
                         title: Text('Алиаскар Хасенов',

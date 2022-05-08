@@ -85,8 +85,7 @@ class HomeScreen extends StatelessWidget {
                           contentPadding: EdgeInsets.symmetric(
                               vertical: getProportionateScreenHeight(5),
                               horizontal: getProportionateScreenWidth(20)),
-                          leading: Image.network(
-                              'https://kurmashev.studio/wp-content/uploads/2021/12/mentor_alish_big.jpg'),
+                          leading: Image.asset('tournament.png'),
                           title: Text(element['title']),
                           subtitle: Text(element['teke']),
                           trailing: GestureDetector(
